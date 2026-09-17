@@ -2,11 +2,7 @@
 <!-- Master Head Section -->
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center" style="color: #ffffff;">Hi 👋, I'm Cristian Rios</h1>
-<h3 align="center" style="color: #ffffff;">Passionate about cybersecurity, cloud, and operating systems.</h3>
-<!-- Profile Views Section -->
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=xeno2410&label=Profile%20views&color=0e75b6&style=flat" alt="xeno2410" /> 
-</p>
+<h3 align="center" style="color: #ffffff;">Passionate about cybersecurity, operating systems and cloud.</h3>
 
 <!-- GitHub Profile Trophy -->
  <!-- <p align="left"> 
@@ -27,7 +23,7 @@
 <p align="left"> 
   <a href=<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,redhat,linux,windows,aws,gcp,azure,html,css,js,idea,java,mysql,python,vscode,wordpress" />
+    <img src="https://skillicons.dev/icons?i=arch,redhat,linux,windows,aws,gcp,azure,html,css,js,idea,java,mysql,python,vscode" />
   </a>
 </p> 
 
