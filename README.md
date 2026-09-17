@@ -1,9 +1,8 @@
 
 <!-- Master Head Section -->
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-<h1 align="center" style="color: #ffffff;">Hi 👋, I'm Tarun Kumar Sharma</h1>
-<h3 align="center" style="color: #ffffff;">Passionate MERN Stack developer and AI/ML enthusiast from India</h3>
-
+<h1 align="center" style="color: #ffffff;">Hi 👋, I'm Cristian Rios</h1>
+<h3 align="center" style="color: #ffffff;">Passionate about cybersecurity, cloud, and operating systems.</h3>
 <!-- Profile Views Section -->
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=xeno2410&label=Profile%20views&color=0e75b6&style=flat" alt="xeno2410" /> 
@@ -12,10 +11,8 @@
 <!-- GitHub Profile Trophy -->
  <!-- <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=xeno2410&theme=onedark" alt="xeno2410" />
   </a> 
 </p> -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=XENO2410&theme=dracula&margin-w=30&no-bg=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- Connect with Me Section -->
 <!-- <h3 align="left" style="color: #ffffff;">Connect with me:</h3>
@@ -105,7 +102,7 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="25" height="25"/>
+     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="25" height="25"/>
