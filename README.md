@@ -33,9 +33,9 @@
 
 
  <p align="">
-<a href="https://github.com/criiizx">
-  
- 
+<a href="https://github.com/xeno2410">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=xeno2410&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xeno2410&layout=compact&langs_count=8&theme=dracula"/>
 </a>
 </p>
 
